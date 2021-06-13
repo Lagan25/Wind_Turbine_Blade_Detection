@@ -1,1 +1,1 @@
-# Wind_Turbine_Blade_Detection
+# Wind_Turbine_Blade_Surface_Damage_Detection
