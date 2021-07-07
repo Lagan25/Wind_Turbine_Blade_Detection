@@ -15,5 +15,5 @@ Image processing involved specifically with image recognition and image classifi
 annotated datasets in teaching a supervised Convolutional Neural Network (CNN) model to classify the images.
 
 # Training_Models
-
+This project showcases three Training models and it's working. 
 
