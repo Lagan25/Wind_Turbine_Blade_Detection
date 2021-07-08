@@ -16,4 +16,17 @@ annotated datasets in teaching a supervised Convolutional Neural Network (CNN) m
 
 # Training_Models
 This project showcases three Training models and it's working. 
+The extraction of the defect features in the image is an important step in the analysis of the blade image. When there are many defects and the defects are clear, 
+the damage to the blade can be identified more accurately if the color and shape features are selected manually. 
+However, some defects of the blades are relatively minor and the intrinsic structure of the blade surface. The Dataset is is preprocessed and applying Image Augmentation
+we train these Images on 3 Training Models.  
+
+Image Processing and Playing with Images is done using the Convolutional Neural Networks which is the basic Networking method for Image Analytics. 
+![90650dnn2](https://user-images.githubusercontent.com/50576454/124955538-bf757800-e034-11eb-980d-7655b0632ced.jpeg)
+
+This Project is built over this base Network Model over which we have added Training Models. And performed the following Models.
+
+1. Convolutional Neural Networks [CNN ]
+2. Region Based - CNN [ R-CNN ]
+3. Alexnet - Transfer Learning 
 
